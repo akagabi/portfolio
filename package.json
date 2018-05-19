@@ -1,0 +1,19 @@
+{
+  "name": "bueno",
+  "version": "1.0.0",
+  "description": "gabriel bueno's portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fermijs/portfolio"
+  },
+  "keywords": [
+    "portfolio",
+    "front-end"
+  ],
+  "author": "Gabriel Bueno",
+  "license": "ISC"
+}
